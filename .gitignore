@@ -1,5 +1,5 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+*.mp4
+auth_data.*
+auth.*
+ids.*
+IDS.*
